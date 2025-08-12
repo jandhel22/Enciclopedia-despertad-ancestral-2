@@ -34,7 +34,7 @@
 
   <main>
     <section class="card">
-      <h2>Bienvenida</h2>
+      <h2>objetivo </h2>
       <p>Esta enciclopedia tiene el objetivo de crear conciencia y reivindicar palabras que pudiesen sonar ofensivas, resignificarlas y sentir orgullo por ellas.</p>
     </section>
 
@@ -80,4 +80,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://jandhel22.github.io/enciclopediadespertadancestral2-/sitemap.xml
+<h2<documento disponible <2<
 [Negro (persona) resignificado pdf.pdf](https://github.com/user-attachments/files/21736103/Negro.persona.resignificado.pdf.pdf)
