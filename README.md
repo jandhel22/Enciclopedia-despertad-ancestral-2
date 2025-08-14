@@ -42,6 +42,10 @@
       <h2>Documento principal</h2>
       <p>Consulta el documento principal (PDF) directamente en esta página o descárgalo.</p>
       <p>
+      
+       [Negro (persona) resignificado pdf.pdf](https://github.com/user-attachments/files/21767075/Negro.persona.resignificado.pdf.pdf)
+ 
+        
         <a href="Negro.persona.resignificado.pdf" target="_blank" rel="noopener">📄 Abrir PDF en pestaña nueva</a>
       </p>
 
@@ -80,5 +84,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://jandhel22.github.io/enciclopediadespertadancestral2-/sitemap.xml
-<h2<documento disponible <2<
-[Negro (persona) resignificado pdf.pdf](https://github.com/user-attachments/files/21736103/Negro.persona.resignificado.pdf.pdf)
+
